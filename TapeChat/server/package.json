@@ -1,0 +1,9 @@
+{
+  "name": "TapeChat-server",
+  "version": "0.0.1",
+  "description": "TapeChat server",
+  "dependencies": {
+  	"express": "^4.14.1",
+    "socket.io": "^2.0.3"
+  }
+}
